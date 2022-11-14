@@ -1,0 +1,14 @@
+### SONGS INDEX
+GET "http://localhost:3000/songs.json"
+
+### SONGS CREATE
+POST "hppt://localhost:3000/songs.json"
+Content-Type: applicaion/json
+
+{
+  "title": "Butter",
+  "album": "ButterBTS",
+  "artist": "BTS",
+  "year": "2021",
+  
+}
